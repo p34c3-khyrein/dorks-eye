@@ -56,7 +56,6 @@ sudo git clone https://github.com/p34c3-khyrein/dorks-eye.git
 
 cd dorks-eye
 
-pip3 install -r requirements.txt
 
 # Dorks Eye Usage Linux
 
@@ -72,7 +71,6 @@ git clone https://github.com/p34c3-khyrein/dorks-eye.git
 
 cd dorks-eye
 
-pip install -r requirements.txt
 
 # Usage Termux
 
